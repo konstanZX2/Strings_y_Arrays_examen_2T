@@ -17,6 +17,8 @@ public class Array {
 
         Array matriz2[][]= new Array [tamañoArray1][tamañoArray2];
 
+        //Haria lo de rellena matriz pero... se me ha olvidado como era el math.random...
+
 
 
     }

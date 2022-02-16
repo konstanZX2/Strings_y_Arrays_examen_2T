@@ -4,5 +4,7 @@ public class StringsEj3 {
         System.out.println(cadena1.length());
         System.out.println(cadena1.indexOf(" "));
 
+
+        //Pues no se como eliminar los espacios siquiera
     }
 }

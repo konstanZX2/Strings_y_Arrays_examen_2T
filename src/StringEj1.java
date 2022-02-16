@@ -17,6 +17,8 @@ public class StringEj1 {
 
         }
 
+        //No se algo de pasar a array los chars y eso del string pero ni idea la verdad
+
 
     }
 }
